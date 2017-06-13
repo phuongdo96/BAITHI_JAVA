@@ -10,7 +10,7 @@ Giáo viên hướng dẫn: Mai Cường Thọ
 
 APP DỰ BÁO THỜI TIẾT "WEATHER"
 
-1.Giới thiệu về app
+1. Giới thiệu về app
 
 Ứng dụng dự báo thời tiết cho ta dự báo thời tiết để đưa ra những nhận định đúng đắn nhất.Ứng dụng có thể cho ta thêm thời tiết trong 1
 
@@ -18,7 +18,7 @@ ngày, gồm có ngày, tháng, thời tiết, nhiệt độ cao, nhiệt độ 
 
 của mỗi người.
 
-2.Hướng dẫn sử dụng
+2. Hướng dẫn sử dụng
 
 Giao diện chính của app
 
