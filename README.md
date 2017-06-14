@@ -22,17 +22,17 @@ của mỗi người.
 
 Giao diện chính của app
 
-<img src ="http://imgur.com/hhayFOx">
+<img src ="http://i.imgur.com/hhayFOx.png">
 
-Khi bạn muốn thêm 1 thời tiết bạn chỉ cần nhấn vào dấu 3 chấm sẽ có nút thêm cho bạn
+Khi bạn muốn thêm 1 thời tiết bạn chỉ cần nhấn vào dấu 3 chấm bên phải màn hình sẽ có nút thêm cho bạn.
 
-<img src ="http://imgur.com/mCGDRUL">
+<img src ="http://i.imgur.com/mCGDRUL.png">
 
-Lúc đó màn hình thêm sẽ hiện ra và bạn có thêm thông tin theo ý mình
+Lúc đó màn hình thêm sẽ hiện ra và bạn có thêm thông tin theo ý mình.
 
-<img src ="http://imgur.com/LHRSobC">
+<img src ="http://i.imgur.com/LHRSobC.png">
 
-Hoặc bạn có thể sửa hoặc xóa thùy ý bằng cách giữ vào biểu tượng thời tiết
+Hoặc bạn có thể sửa hoặc xóa thùy ý bằng cách giữ vào biểu tượng thời tiết.
 
-<img src ="http://imgur.com/EONTvaH">
+<img src ="http://i.imgur.com/EONTvaH.png">
 
