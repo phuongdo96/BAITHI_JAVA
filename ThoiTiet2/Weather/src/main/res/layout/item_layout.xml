@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="3"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1">
+    <ImageView
+        android:layout_width="60sp"
+        android:layout_height="60dp"
+        android:id="@+id/img"
+android:layout_margin="5dp"
+
+        />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ngay"
+        android:id="@+id/tvtime"
+        android:textSize="18sp"
+        android:textColor="#e10d0d"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="3dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mưa có sấm chớp"
+        android:id="@+id/tvmay"
+        android:layout_marginLeft="3dp"/>
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="do cao"
+            android:id="@+id/tvdocao"
+           android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp"
+
+            android:textColor="#e91a1a"
+            android:textSize="18sp"
+           />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="do thap"
+            android:id="@+id/tvdothap"
+            android:layout_marginLeft="15dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>
