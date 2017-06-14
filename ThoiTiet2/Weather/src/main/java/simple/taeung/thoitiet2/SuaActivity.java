@@ -44,7 +44,7 @@ public class SuaActivity extends AppCompatActivity {
             rbtmua.setChecked(true);
             rbtmua.isChecked();
         }
-        else if(may.equals("Mưa có sấm chớp")){
+        else if(may.equals("Sấm chớp")){
             rbtsam.setChecked(true);
             rbtsam.isChecked();
         }

@@ -22,13 +22,12 @@
         android:checked="false" />
 
 
-
     <RadioButton
+        android:id="@+id/rbtmuasams"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mưa có sấm chớp"
-        android:id="@+id/rbtmuasams"
-        android:checked="false" />
+        android:checked="false"
+        android:text="Sấm chớp" />
 
     <EditText
         android:layout_width="match_parent"

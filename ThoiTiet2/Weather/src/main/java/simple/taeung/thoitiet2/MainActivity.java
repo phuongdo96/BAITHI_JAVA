@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case "sam":
                         anh = R.drawable.thunderstorms;
-                        tt = "Mưa có sấm chớp";
+                        tt = "Sấm chớp";
                         break;
                 }
 
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 3:
                         anh = R.drawable.thunderstorms;
-                        tt = "Mưa có sấm chớp";
+                        tt = "Sấm chớp";
                         break;
                 }
                 Log.d("id",""+data.getExtras().getInt("id"));
@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
         ite = new ArrayList<>();
         ite.add(new ItemInfo(0, R.drawable.partly_cloudy, "01/06", "Mây rải rác", "32°C", "25°C"));
         ite.add(new ItemInfo(1, R.drawable.rain_s_cloudy, "02/06", "Mưa giông", "26°C", "23°C"));
-        ite.add(new ItemInfo(2, R.drawable.thunderstorms, "03/06", "Mưa có sấm chớp", "20°C", "18°C"));
+        ite.add(new ItemInfo(2, R.drawable.thunderstorms, "03/06", "Sấm chớp", "20°C", "18°C"));
         adapter = new TtAdapter(this, ite);
         lv.setAdapter(adapter);
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {

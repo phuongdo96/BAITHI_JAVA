@@ -25,7 +25,7 @@
     <RadioButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mưa có sấm chớp"
+        android:text="Sấm chớp"
         android:id="@+id/rbtmuasam" />
 
     <EditText

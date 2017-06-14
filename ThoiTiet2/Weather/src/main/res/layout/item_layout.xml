@@ -42,7 +42,7 @@ android:layout_margin="5dp"
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="mưa có sấm chớp"
+        android:text="Sấm chớp"
         android:id="@+id/tvmay"
         android:layout_marginLeft="3dp"/>
 
