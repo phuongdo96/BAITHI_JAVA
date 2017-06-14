@@ -36,3 +36,7 @@ Hoặc bạn có thể sửa hoặc xóa thùy ý bằng cách giữ vào biểu
 
 <img src ="http://i.imgur.com/EONTvaH.png">
 
+App dự báo thời tiết với giao diện đơn giản, dễ sử dụng sẽ mang lại cho chúng ta những lần dự báo cần thiết cho những chuyến đi
+chơi thú vị.
+
+Nếu app có vấn đề gì xảy ra bạn có thể vào trang này để tải lại : https://drive.google.com/open?id=0B4eAi9UiMYaTcE9UWmZXRFk2VEU !!
